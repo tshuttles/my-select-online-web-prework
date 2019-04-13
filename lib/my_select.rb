@@ -1,3 +1,4 @@
 def my_select(collection)
- # your code here!
+ x = 0 
+ collection = [] 
 end
